@@ -1,6 +1,6 @@
 # Facilities API — Public Access Reference
 
-**Base URL:** `https://<your-domain>` (or `http://localhost:3000` for local dev)
+**Base URL:** `https://humber-facilities.vercel.app/`
 
 All endpoints listed here are **publicly accessible** — no authentication or API key is required. Responses are JSON. All timestamps are ISO 8601 UTC.
 
